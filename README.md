@@ -18,7 +18,7 @@
 
 I am a 3rd-year Computer Engineering student at Marmara University. I am deeply passionate about artificial intelligence, backend development, and low-level system architectures. My goal is to build impactful, modular solutions while continuously pushing the boundaries of my technical knowledge.
 
-- 🏢 **Currently:** AI & Backend Development Intern @ Adanet Digital Advertising Agency
+- 🏢 **Former:** AI & Backend Development Intern @ Adanet Digital Advertising Agency
 - 🏆 **Recent:** Software Developer for Innovatrip @ TEKNOFEST 2025
 - 🎓 **Education:** Marmara University, Computer Engineering
 
