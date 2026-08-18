@@ -52,9 +52,10 @@ I am a 3rd-year Computer Engineering student at Marmara University. I am deeply 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serratanis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serratanis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serratanis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serratanis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="165" alt="Top Languages" />
 </div>
+
 
 ---
 
