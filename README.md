@@ -57,9 +57,9 @@ My main areas of interest include Python, Machine Learning, Large Language Model
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=serratanis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4" height="165" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serratanis&theme=tokyonight" height="165" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serratanis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serratanis&theme=tokyonight" height="165" alt="Top Languages" />
 
 </div>
 
