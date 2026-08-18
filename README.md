@@ -16,11 +16,11 @@
 
 ## 👩‍💻 About Me
 
-I am a 3rd-year Computer Engineering student at Marmara University with a CGPA of 3.13 / 4.00. I am deeply passionate about artificial intelligence, backend development, and low-level system architectures. My goal is to build impactful, modular solutions while continuously pushing the boundaries of my technical knowledge.
+I am a 3rd-year Computer Engineering student at Marmara University. I am deeply passionate about artificial intelligence, backend development, and low-level system architectures. My goal is to build impactful, modular solutions while continuously pushing the boundaries of my technical knowledge.
 
-* 🏢 **Currently:** Artificial Intelligence and Backend Development Intern at Adanet Digital Advertising Agency.
-* 🏆 **Recent Achievement:** Software Developer for Innovatrip at TEKNOFEST 2025 (Tourism Technologies).
-* 🎓 **Community:** Former Board Member & R&D Unit Member at Marmara University Science and Technology Club.
+- 🏢 **Currently:** AI & Backend Development Intern @ Adanet Digital Advertising Agency
+- 🏆 **Recent:** Software Developer for Innovatrip @ TEKNOFEST 2025
+- 🎓 **Education:** Marmara University, Computer Engineering
 
 ---
 
