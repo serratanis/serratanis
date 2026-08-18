@@ -4,6 +4,35 @@
 
 <br><br>
 
+<pre>
+███████╗███████╗██████╗ ██████╗  █████╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗
+███████╗█████╗  ██████╔╝██████╔╝███████║
+╚════██║██╔══╝  ██╔══██╗██╔══██╗██╔══██║
+███████║███████╗██║  ██║██║  ██║██║  ██║
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
+
+<h2>AI · CODE · BUILD</h2>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Hi%2C+I'm+Serra+Tan%C4%B1%C5%9F+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+LLMs+from+Scratch+%F0%9F%A7%A0;Exploring+NLP+%7C+RAG+%7C+Transformers;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux,vscode&perline=8" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=100&section=header&animation=fadeIn" width="100%"/>
+
+</div><div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:4F46E5,100:06B6D4&height=7&section=header" width="100%"/>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Serra+Tan%C4%B1%C5%9F+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Hi, I'm Serra Tanış"/>
 
 <br>
