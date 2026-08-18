@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:4F46E5,100:06B6D4&height=7&section=header" width="100%"/>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <pre>
 ███████╗███████╗██████╗ ██████╗  █████╗
@@ -13,19 +11,13 @@
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
 
-<h2>AI · CODE · BUILD</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Hi%2C+I'm+Serra+Tan%C4%B1%C5%9F+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+LLMs+from+Scratch+%F0%9F%A7%A0;Exploring+NLP+%7C+RAG+%7C+Transformers;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing Animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Hi%2C+I'm+Serra+Tan%C4%B1%C5%9F+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+LLMs+from+Scratch+%F0%9F%A7%A0;Exploring+NLP+%7C+RAG+%7C+Transformers;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux,vscode&perline=8" alt="Tech Stack"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=100&section=header&animation=fadeIn" width="100%"/>
+<a href="https://github.com/serratanis">
+  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,fastapi,docker,linux,figma&perline=8" alt="Tech Stack"/>
+</a>
 
 </div>
 
@@ -33,11 +25,20 @@
 
 ## 👋 About Me
 
-I'm a **3rd-year Computer Engineering student at Marmara University**, interested in **Artificial Intelligence, Machine Learning, Natural Language Processing, Large Language Models, and Software Development**.
+I'm a **3rd-year Computer Engineering student at Marmara University**, passionate about understanding how systems work under the hood—from logic circuits to Large Language Models. 
 
-I enjoy turning what I learn into practical projects and understanding how AI systems work **under the hood**.
+I actively develop software and build AI solutions, constantly bridging the gap between theoretical computer science and practical applications. Recently, I've been focusing on **RAG frameworks and Chatbot systems** during my internship at **Adanet**, participating in data science challenges like the **Grid Up Datathon**, and maintaining active repositories for LLM development.
 
 > **Learn → Build → Experiment → Improve**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serratanis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serratanis&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
 
 ---
 
@@ -46,88 +47,73 @@ I enjoy turning what I learn into practical projects and understanding how AI sy
 ```python
 class Serra:
 
-    role = "Computer Engineering Student"
-    university = "Marmara University"
+    def __init__(self):
+        self.role = "Computer Engineering Student"
+        self.university = "Marmara University"
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Large Language Models",
-        "Natural Language Processing",
-        "RAG Systems",
-        "Software Development"
-    ]
+    def get_focus_areas(self):
+        return {
+            "AI_&_ML": ["LLMs", "NLP", "RAG Systems", "Transformers"],
+            "Software": ["Python", "Java", "Assembly", "C"],
+            "Design_&_Hardware": ["Figma", "Digital Logic Design"]
+        }
 
-    currently_learning = [
-        "Transformers",
-        "PyTorch",
-        "LLMs",
-        "NLP",
-        "RAG"
-    ]
+    def current_projects(self):
+        return [
+            "Building a Large Language Model from scratch",
+            "Developing RAG frameworks for enterprise chatbots",
+            "Competing in Datathons"
+        ]
 
-    philosophy = "Always learning, always building."
+    def execute_philosophy(self):
+        while True:
+            learn()
+            build()
 ```
 
 ---
 
-## 🧬 My AI Journey
+## 🧬 My AI & Data Journey
 
-<div align="center">
-<pre>
-       TEXT
-        |
-        v
-    TOKENIZER
-        |
-        v
-   EMBEDDINGS
-        |
-        v
- SELF-ATTENTION
-        |
-        v
-  TRANSFORMER
-        |
-        v
-     OUTPUT
-</pre>
-</div>
-<br>
+*A simplified view of a Transformer architecture workflow I enjoy exploring:*
 
-I’m currently exploring how language models work from the inside out.
+```mermaid
+graph TD;
+    A([Raw Input Text]) -->|Tokenization| B(Tokenizer);
+    B --> C{Embeddings & Positional Encoding};
+    C -->|Q, K, V Matrices| D[Multi-Head Self-Attention];
+    D --> E[Feed Forward Network];
+    E --> F[Transformer Blocks];
+    F --> G([Probability Distribution / Output]);
+    
+    style A fill:#7C3AED,stroke:#fff,stroke-width:2px,color:#fff;
+    style G fill:#06B6D4,stroke:#fff,stroke-width:2px,color:#fff;
+    style D fill:#4F46E5,stroke:#fff,stroke-width:2px,color:#fff;
+```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Tools
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,bash&perline=6" alt="Languages"/>
+### Languages & Core Tech
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,bash&perline=6" alt="Languages"/>
 
-### AI / Machine Learning
+### AI, ML & Data
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="AI / ML"/><br><br>
 <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Transformers-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge"/>
 
-### Development & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi,flask&perline=7" alt="Development Tools"/><br><br>
+### Development, Design & Hardware
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi,figma&perline=7" alt="Development Tools"/><br><br>
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Logisim-8B5CF6?style=for-the-badge"/>
 
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=Building+LLMs+from+scratch;Understanding+Transformers;Exploring+RAG+systems;Improving+software+engineering+skills" alt="Currently Learning"/>
 </div>
 
 ---
