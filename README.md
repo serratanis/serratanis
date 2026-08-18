@@ -1,92 +1,96 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:4C1D95,100:06B6D4&text=SERRA%20TANI%C5%9E&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%26%20MACHINE%20LEARNING&descAlignY=65&descSize=14" width="100%"/>
+<pre>
+███████╗███████╗██████╗ ██████╗  █████╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗
+███████╗█████╗  ██████╔╝██████╔╝███████║
+╚════██║██╔══╝  ██╔══██╗██╔══██╗██╔══██║
+███████║███████╗██║  ██║██║  ██║██║  ██║
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
+
+Computer Engineering Student · AI / ML · LLMs
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&height=45&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+Large+Language+Models+%F0%9F%A7%A0;Learning+Transformers+from+scratch;Python+%7C+PyTorch+%7C+NLP+%7C+RAG;Turning+ideas+into+code+%E2%9C%A8" alt="Typing Animation"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=building+AI-powered+applications;exploring+Large+Language+Models;learning+Transformers+from+the+inside;turning+ideas+into+code+%E2%9C%A8" />
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux,vscode&perline=8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=100&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 ⸻
 
-<div align="center">
+🧠 About Me
 
-01 — ABOUT
+I’m a 3rd-year Computer Engineering student at Marmara University, interested in Artificial Intelligence, Machine Learning, Large Language Models, NLP and Software Development.
 
-</div>
-
-I’m a 3rd-year Computer Engineering student at Marmara University interested in Artificial Intelligence, Machine Learning, LLMs, NLP and Software Development.
-
-I learn by building — from custom language models to RAG-based AI applications.
+I enjoy learning by building practical projects and exploring how AI systems work under the hood.
 
 ⸻
 
-<div align="center">
-
-02 — CURRENTLY BUILDING
-
-</div>
-<table>
-<tr>
-<td width="50%" align="center">
-
-🧠 LLM From Scratch
-
-Learning how language models work by building their core components with PyTorch.
-
-Tokenization · Embeddings
-Attention · Transformers
-
-</td>
-<td width="50%" align="center">
-
-🤖 AI Applications
-
-Building practical AI systems with modern LLM tooling.
-
-LLMs · RAG
-ChromaDB · FastAPI · Ollama
-
-</td>
-</tr>
-</table>
-
-⸻
+🚀 Currently Building
 
 <div align="center">
 
-03 — TOOLKIT
+🧠 LLM From Scratch	🤖 AI Applications
+Building language model components with PyTorch	Building practical AI-powered applications
+Tokenization · Embeddings	LLMs · RAG
+Attention · Transformers	ChromaDB · FastAPI · Ollama
 
-<br>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 </div>
 
 ⸻
 
+🛠️ Tech Stack
+
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,pytorch,fastapi,flask,docker,git,github,linux,vscode&perline=6" />
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
+</div>
 
-04 — FEATURED
+⸻
 
+📌 Featured Project
+
+<div align="center">
 <a href="https://github.com/serratanis/LLM-from-scratch">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=serratanis&repo=LLM-from-scratch&theme=tokyonight&hide_border=true" />
 </a>
+
+LLM-from-Scratch
+
+<br>
+
+Exploring how language models work by implementing their core components with PyTorch.
+
+</div>
+
+⸻
+
+🌱 Currently Learning
+
+<div align="center">
+
+Transformers · PyTorch · LLMs · NLP · RAG
+
 </div>
 
 ⸻
 
 <div align="center">
 
-05 — CONNECT
+Let’s build something interesting. 🚀
 
+<br>
 <a href="https://github.com/serratanis">
-<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/serra-tanis/">
-<img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,50:4C1D95,100:0F172A&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&height=35&lines=Always+learning.;Always+building.;Always+exploring.+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
