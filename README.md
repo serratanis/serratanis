@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FDF2F8,FBCFE8,F472B6&height=180&section=header&text=%20SERRA%20TANIŞ%20&fontSize=50&fontAlignY=45&animation=fadeIn&fontColor=500724" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FDF2F8,FBCFE8,F472B6&height=180&section=header&text=SERRA%20TANIŞ&fontSize=65&fontAlignY=45&animation=twinkling&fontColor=831843" width="100%" alt="Header" />
+
+<img src="https://komarev.com/ghpvc/?username=serratanis&color=06B6D4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 
 <img src="https://komarev.com/ghpvc/?username=serratanis&color=06B6D4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 
