@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9333EA,4F46E5,06B6D4&height=150&section=header&animation=fadeIn" width="100%"/>
 
-<!-- Ziyaretçi Sayacı -->
 <img src="https://profile-counter.glitch.me/serratanis/count.svg" alt="Visitor Count" />
 
 <br><br>
 
-<!-- Fira Code Yazı Tipi ile İsim Animasyonu -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Serra+Tanış+👋;Building+AI+%26+LLMs+🧠;Backend+Developer+💻;Turning+Coffee+into+Code+☕" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+Serra+Tanış+👋;Building+AI+%26+LLMs+🧠;Backend+Developer+💻;Turning+Coffee+into+Code+☕" alt="Typing Animation"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/serratanis">
   <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,fastapi,docker,linux,figma&perline=8" alt="Tech Stack"/>
@@ -18,7 +16,6 @@
 
 <br><br>
 
-<!-- GitHub Kupaları (Oyunlaştırma) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=serratanis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </a>
@@ -41,26 +38,21 @@ I am a 3rd-year Computer Engineering student at Marmara University. I am deeply 
 
 ## 🚀 Execution: `./projects.sh`
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🤖 AI & LLM Engineering</h3>
-      <ul>
-        <li><b>LLM from Scratch:</b> Coded tokenizers, embeddings, and self-attention using PyTorch.</li>
-        <li><b>AI WhatsApp Chatbot:</b> Developed using FastAPI, Ollama, Whisper, and RAG.</li>
-        <li><b>Speech Processing:</b> Implementing STT and document QA systems.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>⚙️ Software & Architecture</h3>
-      <ul>
-        <li><b>Call Center Queue:</b> Priority Queue dynamic routing in Java.</li>
-        <li><b>8086 Assembly Game:</b> LCG algorithm & collision detection in emu8086.</li>
-        <li><b>CV Generation App:</b> JavaFX tool with multi-language API.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<table width="100%"><tr><td valign="top" width="50%">
+<h3>🤖 AI & LLM Engineering</h3>
+<ul>
+<li><b>LLM from Scratch:</b> Coded tokenizers, embeddings, and self-attention using PyTorch.</li>
+<li><b>AI WhatsApp Chatbot:</b> Developed using FastAPI, Ollama, Whisper, and RAG.</li>
+<li><b>Speech Processing:</b> Implementing STT and document QA systems.</li>
+</ul>
+</td><td valign="top" width="50%">
+<h3>⚙️ Software & Architecture</h3>
+<ul>
+<li><b>Call Center Queue:</b> Priority Queue dynamic routing in Java.</li>
+<li><b>8086 Assembly Game:</b> LCG algorithm & collision detection in emu8086.</li>
+<li><b>CV Generation App:</b> JavaFX tool with multi-language API.</li>
+</ul>
+</td></tr></table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=30&section=header" width="100%"/>
 
