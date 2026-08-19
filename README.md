@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FDF2F8,FBCFE8,F472B6&height=180&section=header&text=SERRA%20TANIŞ&fontSize=65&fontAlignY=45&animation=twinkling&fontColor=831843" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=831843&center=true&vCenter=true&width=850&height=45&lines=3rd-Year+Computer+Engineering+Student+%F0%9F%92%BB;Building+LLMs+%26+RAG+Systems+%E2%9C%A8;Python,+Java,+C,+C%23,+SQL,+Assembly+%E2%9A%99%EF%B8%8F" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=831843&center=true&vCenter=true&width=850&height=45&lines=3rd-Year+Computer+Engineering+Student+%F0%9F%92%BB;Building+LLMs+%26+RAG+Systems;Python,+Java,+C,+C%23,+SQL,+Assembly+%E2%9A%99%EF%B8%8F" alt="Typing Animation"/>
 
 <br>
 
