@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FDF2F8,FBCFE8,F472B6&height=180&section=header&text=SERRA%20TANIŞ&fontSize=65&fontAlignY=45&animation=twinkling&fontColor=831843" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&height=45&lines=3rd-Year+Computer+Engineering+Student+%F0%9F%92%BB;Building+LLMs+%26+RAG+Systems+%E2%9C%A8;Java,+Python,+C,+Assembly+%E2%9A%99%EF%B8%8F" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&height=45&lines=3rd-Year+Computer+Engineering+Student+%F0%9F%92%BB;Building+LLMs+%26+RAG+Systems+%E2%9C%A8;Java,+Python,+C,+C#,+SQL,,+Assembly+%E2%9A%99%EF%B8%8F" alt="Typing Animation"/>
 
 <br>
 
@@ -92,16 +92,33 @@ My main areas of interest include Python, Machine Learning, Large Language Model
 
 <div align="center">
 <br>
+
 <a href="https://github.com/serratanis">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://www.linkedin.com/in/serra-tan%C4%B1%C5%9F-169671333/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<a href="https://huggingface.co/serratanis">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
+
+<a href="https://www.kaggle.com/serratan">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+<a href="https://www.instagram.com/serra._.tanis/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
 <a href="mailto:serra54tanis@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06B6D4,4F46E5,9333EA&height=100&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
