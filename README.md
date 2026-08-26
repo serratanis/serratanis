@@ -20,8 +20,6 @@ I am a 3rd-year Computer Engineering student at Marmara University, interested i
 
 My main areas of interest include Python, Machine Learning, Large Language Models (LLMs), Natural Language Processing, RAG-based applications, and backend development.
 
-- 💼 **AI & Backend Development Intern** @ Adanet Digital Advertising Agency
-
 - 🤖 **Focus:** LLMs, RAG, NLP, Machine Learning & Backend Development
 
 - 🎓 **Education:** Marmara University — Computer Engineering
