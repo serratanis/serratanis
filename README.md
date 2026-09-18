@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I am a 3rd-year Computer Engineering student at Marmara University, interested in Artificial Intelligence, backend development, and software engineering. I enjoy turning what I learn into practical projects and building systems that combine software development with AI..
+I am a 3rd-year Computer Engineering student at Marmara University, interested in Artificial Intelligence, backend development, and software engineering. I enjoy turning what I learn into practical projects and building systems that combine software development with AI.
 
 My main areas of interest include Python, Machine Learning, Large Language Models (LLMs), Natural Language Processing, RAG-based applications, and backend development.
  
