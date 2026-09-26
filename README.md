@@ -16,7 +16,7 @@
 
 I'm a **3rd-year Computer Engineering student at Marmara University** interested in **Artificial Intelligence, backend development, and software engineering**.
 
-I enjoy turning what I learn into practical projects — from exploring how **Large Language Models** work to building AI-powered and full-stack applications..
+I enjoy turning what I learn into practical projects — from exploring how **Large Language Models** work to building AI-powered and full-stack applications.
 
 - 🧠 **Focus:** LLMs, RAG, NLP, Machine Learning & Backend Development
 - 🎓 **Education:** Marmara University — Computer Engineering
